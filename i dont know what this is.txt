@@ -1,0 +1,6 @@
+background: var(---clr3);
+	color: #0f0f0e;
+	cursor: pointer;
+	margin-top: 2rem;
+	border-radius: 12px;
+	width: 250px;
